@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-09-19T10:12:18.617Z",
+  "owner": "kenli0515",
+  "count": 5,
+  "projects": [
+    {
+      "id": "chinese-input-dictionary",
+      "title": "字解 · 倉頡與筆順查詢",
+      "emoji": "🀄",
+      "description": "輸入繁體、簡體中文或英文意思查字，顯示倉頡三代字根、速成首尾碼、五色拆碼圖與逐筆動畫，查詢結果可以直接分享連結。",
+      "tags": [
+        "中文",
+        "輸入法",
+        "學習工具"
+      ],
+      "url": "https://kenli0515.github.io/chinese-input-dictionary/",
+      "repo": "kenli0515/chinese-input-dictionary",
+      "repoUrl": "https://github.com/kenli0515/chinese-input-dictionary",
+      "version": "1.0.0",
+      "versionSource": "package.json",
+      "updatedAt": "2026-09-17T11:23:51Z",
+      "createdAt": "2026-09-17T11:02:36Z",
+      "language": "JavaScript",
+      "stars": 0,
+      "pages": true
+    },
+    {
+      "id": "youtube-report",
+      "title": "YouTube 要點報告",
+      "emoji": "📺",
+      "description": "在 YouTube 影片頁一鍵生成簡體中文要點報告，每個要點都附精確到秒的深鏈、可直接播放的片段，以及該時刻的截圖。",
+      "tags": [
+        "影片",
+        "AI",
+        "生產力"
+      ],
+      "url": "https://kenli0515.github.io/youtube-report/",
+      "repo": "kenli0515/youtube-report",
+      "repoUrl": "https://github.com/kenli0515/youtube-report",
+      "version": "2026.09.15",
+      "versionSource": "date",
+      "updatedAt": "2026-09-15T18:31:42Z",
+      "createdAt": "2026-09-15T16:02:12Z",
+      "language": "HTML",
+      "stars": 0,
+      "pages": true
+    },
+    {
+      "id": "fb-replay",
+      "title": "無劇透足球精華",
+      "emoji": "⚽",
+      "description": "足球精華索引頁：只收 NOW TV 與球會、電視台官方 YouTube 影片，未開賽賽程和精華重播分開顯示，時間以香港時間為準。",
+      "tags": [
+        "足球",
+        "影片",
+        "資料整理"
+      ],
+      "url": "https://kenli0515.github.io/fb-replay/",
+      "repo": "kenli0515/fb-replay",
+      "repoUrl": "https://github.com/kenli0515/fb-replay",
+      "version": "2026.09.19",
+      "versionSource": "date",
+      "updatedAt": "2026-09-19T09:15:09Z",
+      "createdAt": "2026-09-13T03:28:46Z",
+      "language": "Python",
+      "stars": 0,
+      "pages": true
+    },
+    {
+      "id": "chinese-dictation-helper",
+      "title": "繁體漢字拼圖學習機",
+      "emoji": "🧩",
+      "description": "把漢字拆成一塊塊筆畫，用拼圖方式重新拼出整個字，邊玩邊記字形。字形資料第一次載入後會快取在瀏覽器。",
+      "tags": [
+        "中文",
+        "學習工具",
+        "小朋友"
+      ],
+      "url": "https://kenli0515.github.io/chinese-dictation-helper/",
+      "repo": "kenli0515/chinese-dictation-helper",
+      "repoUrl": "https://github.com/kenli0515/chinese-dictation-helper",
+      "version": "1.0.5",
+      "versionSource": "version.json",
+      "updatedAt": "2026-09-13T02:39:42Z",
+      "createdAt": "2026-09-12T17:07:04Z",
+      "language": "HTML",
+      "stars": 0,
+      "pages": true
+    },
+    {
+      "id": "spelling-trainer",
+      "title": "拼寫練習工具",
+      "emoji": "🔤",
+      "description": "給小朋友的英文拼寫練習：先聽發音、再拼出單詞、最後再聽一次核對。預設用 Google Chirp 3 HD 女聲，語速可以調整。",
+      "tags": [
+        "英文",
+        "學習工具",
+        "小朋友"
+      ],
+      "url": "https://kenli0515.github.io/spelling-trainer/",
+      "repo": "kenli0515/spelling-trainer",
+      "repoUrl": "https://github.com/kenli0515/spelling-trainer",
+      "version": "2026.09.12",
+      "versionSource": "date",
+      "updatedAt": "2026-09-12T16:26:26Z",
+      "createdAt": "2026-09-10T15:40:55Z",
+      "language": "HTML",
+      "stars": 0,
+      "pages": true
+    }
+  ]
+}
